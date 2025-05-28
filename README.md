@@ -56,3 +56,5 @@ endmodule
 
 
 **RESULTS**
+
+  Thus the D flipflop using verilog and validating their functionality using their functional tables is verifieds
